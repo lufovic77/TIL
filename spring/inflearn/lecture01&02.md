@@ -42,7 +42,7 @@
       - Run tests using
     - 둘다 IntelliJ IDEA로 바꿔준다.
     - 이러면 Gradle을 거치지 않고 바로 자바로 실행해서 빠르다고 한다.
-### 라이브러리
+# 라이브러리
 - Gradle은 의존 관계가 있는 라이브러리들을 모두 가져온다.  
 - 위에서 나는 spring web, thymeleaf만 추가를 했지만 external libraries를 확인해보면 매우 많은 라이브러리들이 추가로 다운되어 있다.   
 - 대표적인 로깅 라이브러리 (system.out.println은 이제 지양하자..)
