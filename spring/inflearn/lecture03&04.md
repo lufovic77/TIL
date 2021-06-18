@@ -57,7 +57,8 @@
 ## 작동 원리
 
 - 일단 위에서 본 `HelloController`를 실행하려면 `localhost:8080/hello`에 접속해야한다.
-
+![동작원리](./images/fundamental1.png)
+> 출처: 강의 교안
 - 기본적으로 스프링 부트는 톰캣 웹서버를 내장하고 있다.
 - 브라우저에서 `hello`라는 요청을 보내면, 톰캣에서 `helloController`를 실행한다.
     - `GetMapping("hello")`라는 annotation이 있으므로.
