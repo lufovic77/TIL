@@ -3,7 +3,7 @@
 ## Categories
 - [Cloud](#Cloud)
   - [Docker](#Docker)
-- [Programming Language](#Programming Language)
+- [ProgrammingLanguage](#ProgrammingLanguage)
   - [Java](#Java)
 - [Web](#Web)
   - [Spring](#Spring)
@@ -13,7 +13,7 @@
 ### Docker
 - [도커 공식 문서 번역](./docker/docs)
 
-## Programming Language
+## ProgrammingLanguage
 ### Java
 - [자바 개념 정리](./java)
 
