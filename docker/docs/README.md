@@ -10,3 +10,4 @@
   - [Part 1: Getting started](./get_started/part1.md) - 도커 시작해보기
   - [Part 2: Sample application](./get_started/part2.md) - 간단한 어플리케이션 구동해보기
   - [Part 3: Update the application](./get_started/part3.md) - 만든 앱을 변경해보기
+  - [Part 4: Share the application](./get_started/part4.md) - 이미지를 레지스트리에 push, pull을 통해 공유해보기
