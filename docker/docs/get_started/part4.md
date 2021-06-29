@@ -42,7 +42,7 @@ $ docker push docker/getting-started
 3) `docker tag` 명령어를 이용해서 `getting-started` 이미지에게 새로운 이름을 부여하자. 아래에 예시로 나온 `YOUR-USER-NAME`을 꼭 꼭 본인의 도커 ID로 바꿔서 입력하자.
 
 ```java
-$ docker tag getting-started YOUR-USER-NAME/getting-starteddocker tag getting-started YOUR-USER-NAME/getting-started
+$ docker tag getting-started YOUR-USER-NAME/getting-started
 ```
 
 딱히 별다른 아웃풋은 없다. 
