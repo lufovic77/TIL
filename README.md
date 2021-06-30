@@ -15,7 +15,7 @@
 
 ## ProgrammingLanguage
 ### Java
-- [자바 개념 정리](./java)
+- [Optional 클래스](./java/optional.md)
 
 ## Web 
 ### Spring
