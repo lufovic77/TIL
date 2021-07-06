@@ -25,3 +25,5 @@
 ## Web 
 ### Spring
 - [인프런 강의 정리: 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](./spring/inflearn)
+### REST
+- [REST API를 알아보자](./rest/rest.md)
