@@ -15,11 +15,11 @@
 ## Cloud
 - [CI와 CD](./cloud/CICD.md)
 ### Docker
-- [도커 공식 문서 번역](./docker/docs)
+- [도커 공식 문서 번역](./cloud/docker/docs)
 ### k8s
-- [시작하세요! 도커/쿠버네티스] 
+- [시작하세요! 도커/쿠버네티스](./cloud/k8s)
 ### Hadoop
-- [하둡 완벽 가이드 4판]
+- [하둡 완벽 가이드 4판](./cloud/hadoop)
 
 ## Github
 - [여러가지 Git 계정 관리하기](./github/accounts.md)
