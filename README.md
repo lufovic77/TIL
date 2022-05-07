@@ -3,6 +3,8 @@
 ## Categories
 - [Cloud](#Cloud)
   - [Docker](#Docker)
+  - [k8s](#k8s)
+  - [Hadoop](#Hadoop)
 - [Github](#Github)
   - [여러가지 Git 계정 관리하기](#Github)
 - [ProgrammingLanguage](#ProgrammingLanguage)
@@ -14,8 +16,8 @@
 - [CI와 CD](./cloud/CICD.md)
 ### Docker
 - [도커 공식 문서 번역](./docker/docs)
-- [시작하세요! 도커/쿠버네티스]
-
+### k8s
+- [시작하세요! 도커/쿠버네티스] 
 ### Hadoop
 - [하둡 완벽 가이드 4판]
 
